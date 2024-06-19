@@ -1,0 +1,11 @@
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.csproj.AssemblyReference.cache
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.frmBangCap.resources
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.Main.resources
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.Properties.Resources.resources
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.csproj.GenerateResource.cache
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.csproj.CoreCompileInputs.cache
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\bin\Debug\TH_6_10.exe.config
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\bin\Debug\TH_6_10.exe
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\bin\Debug\TH_6_10.pdb
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.exe
+D:\Hoc\dotnet\Form_SQL_B7\Main\TH_6_10\obj\Debug\TH_6_10.pdb
